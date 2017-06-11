@@ -1,0 +1,2 @@
+Arquivo de configuração do apache HTTPD.CONF
+Arquivo de configurações do php php.ini
